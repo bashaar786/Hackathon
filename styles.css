@@ -1,0 +1,23 @@
+#contAB{
+background-color: blue;
+height: 150px;
+border: 0.5px solid gray;
+border-radius: 10px;
+/* display: flex;
+justify-content: space-between; */
+}
+
+#contCD{
+    background-color: aqua;
+    height: 150px;
+    border: 0.5px solid gray;
+    border-radius: 10px;
+    /* display: flex;
+    justify-content: space-between; */
+    }
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
